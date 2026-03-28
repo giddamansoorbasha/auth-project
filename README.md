@@ -11,7 +11,7 @@ Includes a clean frontend UI — fully connected end to end.
 ---
 
 ## 🚀 Live Demo
-> Coming soon — deploying with Railway
+> 🌍 Live: https://auth-project-production-0710.up.railway.app
 
 ---
 
